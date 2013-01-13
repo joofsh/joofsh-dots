@@ -1,1 +1,1 @@
-colo solarize
+colo solarized
