@@ -1,3 +1,0 @@
-#!/bin/sh
-
-heroku logs -t --app "$@" | grep -v poolman | grep -v ccman
