@@ -4,9 +4,10 @@ stty -ixon
 
 keyup
 
+alias ang="cd ~/src/angular_phones"
 alias samp="cd ~/src/sandbox/test2_app"
 alias ecom="cd ~/src/sandbox/ecommerce"
-alias wipw="cd ~/src/wipw"
+alias wipw="cd ~/src/wipomo"
 alias geofsh="cd ~/src/geofsh"
 alias dev4k="cd ~/src/dev4k"
 alias joofaq="cd ~/src/joofaq"
@@ -15,6 +16,10 @@ alias cna="cd ~/src/candidate-news-aggregator"
 alias evs="cd ~/src/sandbox/ent-voting-system"
 alias sqlar="cd ~/src/sql_ar_interpreter"
 alias treat="cd ~/src/Treater"
-alias railss="bundle exec rails s thin"
+alias tasks='cd ~/src/sandbox/task_backbone'
+alias railss='bundle exec rails s thin'
+
 # vim:ft=sh
 
+export RAILS_MAIL_TO=joofsh@sharpsaw.org
+export RAILS_CONFIRMATION_LINK_HOST=dev.wipomo.com:4000
