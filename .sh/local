@@ -15,6 +15,6 @@ alias cna="cd ~/src/candidate-news-aggregator"
 alias evs="cd ~/src/sandbox/ent-voting-system"
 alias sqlar="cd ~/src/sql_ar_interpreter"
 alias treat="cd ~/src/Treater"
-
+alias railss="bundle exec rails s thin"
 # vim:ft=sh
 
