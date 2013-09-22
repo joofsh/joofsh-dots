@@ -6,4 +6,8 @@
 	url = git://github.com/digitaltoad/vim-jade.git
 [submodule ".vim/bundle/vim-stylus"]
 	path = .vim/bundle/vim-stylus
-	url = git://github.com/wavded/vim-stylus.git
+        url = git://github.com/wavded/vim-stylus.git
+[submodule ".vim/bundle/nerdcommenter"]
+	path = .vim/bundle/nerdcommenter
+	url = git://github.com/scrooloose/nerdcommenter.git
+
