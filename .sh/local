@@ -18,6 +18,7 @@ alias sqlar="cd ~/src/sql_ar_interpreter"
 alias treat="cd ~/src/Treater"
 alias tasks='cd ~/src/sandbox/task_backbone'
 alias chat="cd ~/src/chatroom-socket-io"
+alias jdp="cd ~/src/jdpagano"
 
 
 
