@@ -17,6 +17,10 @@ alias evs="cd ~/src/sandbox/ent-voting-system"
 alias sqlar="cd ~/src/sql_ar_interpreter"
 alias treat="cd ~/src/Treater"
 alias tasks='cd ~/src/sandbox/task_backbone'
+alias chat="cd ~/src/chatroom-socket-io"
+
+
+
 alias railss='bundle exec rails s thin'
 
 # vim:ft=sh
