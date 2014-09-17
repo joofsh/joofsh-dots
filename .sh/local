@@ -19,8 +19,10 @@ alias treat="cd ~/src/Treater"
 alias tasks='cd ~/src/sandbox/task_backbone'
 alias chat="cd ~/src/chatroom-socket-io"
 alias jdp="cd ~/src/jdpagano"
-
-
+alias learn="cd ~/src/learning-api"
+alias admin="cd ~/src/id-web"
+alias cbe="cd ~/src/competencies-web"
+alias social="cd ~/src/social"
 
 alias railss='bundle exec rails s thin'
 
