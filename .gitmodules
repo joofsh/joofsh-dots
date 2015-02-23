@@ -23,3 +23,7 @@
 [submodule ".vim/bundle/vim-javascript"]
 	path = .vim/bundle/vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
+
+[submodule ".vim/bundle/colorizer"]
+	path = .vim/bundle/colorizer
+	url = https://github.com/lilydjwg/colorizer.git
