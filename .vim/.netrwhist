@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/jd/src/caseflow-certification'
+let g:netrw_dirhist_2='/Users/jd/src/caseflow-certification/client'
+let g:netrw_dirhist_3='/Users/jd/src/caseflow-certification'
+let g:netrw_dirhist_4='/Users/jd/src/ruby-bgs/lib/bgs/services'
+let g:netrw_dirhist_5='/Users/jd/src/ruby-bgs'
+let g:netrw_dirhist_6='/Users/jd/src/ruby-bgs/lib'
+let g:netrw_dirhist_7='/Users/jd/src/caseflow-certification'
+let g:netrw_dirhist_8='/Users/jd/src/caseflow-certification/.git'
+let g:netrw_dirhist_9='/Users/jd/src/caseflow-certification'
